@@ -1,0 +1,125 @@
+Initialize engine version: 5.4.1f1-GVR7 (f972c095037a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.147 seconds
+Platform assembly: C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Maupa\Desktop\Projekty\github\snakeNEAT\app\app_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.045142 ms
+C:/Users/Maupa/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Starting PhotoTaxis experiment
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/Maupa/AppData/LocalLow/DefaultCompany/UnityNEAT/car.pop.xml Error loading genome from file!
+Loading aborted.
+Could not find file "C:\Users\Maupa\AppData\LocalLow\DefaultCompany\UnityNEAT\car.pop.xml".
+Joe: C:/Users/Maupa/AppData/LocalLow/DefaultCompany/UnityNEAT/car.pop.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Iteration 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+gen=1 bestFitness=0.000000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/Maupa/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+get error in best
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/Maupa/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+get error in best
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Starting PhotoTaxis experiment
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/Maupa/AppData/LocalLow/DefaultCompany/UnityNEAT/car.pop.xml Error loading genome from file!
+Loading aborted.
+Could not find file "C:\Users\Maupa\AppData\LocalLow\DefaultCompany\UnityNEAT\car.pop.xml".
+Joe: C:/Users/Maupa/AppData/LocalLow/DefaultCompany/UnityNEAT/car.pop.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Iteration 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+gen=1 bestFitness=0.000000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Lowering time scale to 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Iteration 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Lowering time scale to 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Iteration 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Lowering time scale to 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Iteration 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Lowering time scale to 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Lowering time scale to 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Lowering time scale to 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Lowering time scale to 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12c -> priority: 1 
