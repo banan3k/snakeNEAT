@@ -1,0 +1,17 @@
+﻿nr linijki : 
+20
+51
+101-105
+108
+110-169
+234-235
+238
+244-254
+280
+309-310
+
+link orginału (ścieżka ta sama w projekcie):
+https://raw.githubusercontent.com/lordjesus/UnityNEAT/master/UnityNEAT/Assets/SharpNEAT/Optimizer.cs
+
+blue - original simulation
+red - experimental simulation

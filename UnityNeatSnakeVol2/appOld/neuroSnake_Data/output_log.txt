@@ -1,0 +1,103 @@
+Initialize engine version: 5.4.1f1-GVR7 (f972c095037a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     2092 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+Platform assembly: C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\banan3k\Desktop\Rproject\UnityNeatSnakeVol2\appN\neuroSnake_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.586042 ms
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+C:/Users/banan3k/AppData/LocalLow/DefaultCompany/UnityNEAT/car.champ.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 17e8 -> priority: 1 

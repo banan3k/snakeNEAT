@@ -1,0 +1,15 @@
+﻿białe koło to głowa węża
+czarny pasek - ogon węża
+ciemno-niebieskie koło - punkt do zdobycia (każdy wąż ma swój osobny punkt)
+Generation - numer aktualnie tworzonej generacji (zeruje się po każdej przerwie (Stop EA)
+Fitness - aktulna średnia punktów zdobyta przez węży 
+
+w wykresie powód przegranej :
+infinite - wąż się zapętlił - chodził w kółko
+dead by tail - przegrana przez zjedzenie własnego węża
+dead by wall - wąż wszedł w ściane
+
+Youtube video :
+https://www.youtube.com/watch?v=E9o9waljCFU
+
+*Kolory ustawione do jak najmniejszego zużycia zasobów karty graficznej
